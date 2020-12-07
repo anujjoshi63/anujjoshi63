@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a commercial project as a freelancer. (Electron App)
 - 🌱 I’m currently pursuing Bachelor's degree in Computer Engineering.
