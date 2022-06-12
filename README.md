@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 Currently working as a freelance developer.
-- 🌱 I’m currently pursuing Bachelor's degree in Computer Engineering (Third Year)
-- 📖 Current Interest: Hooked on React, Exploring Open Source
+- 🔭 Working as a freelance developer - Actively looking for projects
+- 🌱 Currently pursuing Bachelor's degree in Computer Engineering (Final Year)
+- 📖 Interests: Hooked on React, Exploring Open Source
 
 
 <details>
