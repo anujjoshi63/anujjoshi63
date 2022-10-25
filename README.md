@@ -2,7 +2,7 @@
 
 - 🔭 Working as a freelance developer - [Actively looking for projects](https://www.fiverr.com/share/xj0Bgq)
 - 🌱 Currently pursuing Bachelor's degree in Computer Engineering (Final Year)
-- 📖 Interests: Hooked on React, Exploring Open Source
+- 📖 Interests: Webdev in general, Next, React, ts>>
 
 
 <details>
