@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Working as a freelance developer - [Actively looking for projects](https://www.fiverr.com/share/xj0Bgq)
-- 🌱 Currently pursuing Bachelor's degree in Computer Engineering (Final Year)
+- 🔭 Actively looking for Internship opportunities for 2024 summer in USA
+- 🌱 Currently pursuing MS in Computer Science at Arizona State University
 - 📖 Interests: Webdev in general, Next, React, ts>>
 
 
