@@ -1,10 +1,10 @@
-### Hi there 👋
+### Hello there 👋
 
-- 🔭 Actively looking for Internship opportunities for 2024 summer in USA
-- 🌱 Currently pursuing MS in Computer Science at Arizona State University
-- 📖 Interests: Webdev in general, Next, React, ts>>
+- 🔭 Actively looking for `2024 Summer Internship Opportunities`
+- 🌱 Currently pursuing `MS in Computer Science at Arizona State University`
+- 📖 Interests: Software dev in general, Next, React, want to get into AI/ML
 
-
+[LinkedIn](https://www.linkedin.com/in/thejoshi/) | [X (Twitter)](https://twitter.com/anujjosh)
 <details>
   <summary>My github stats</summary>
   
