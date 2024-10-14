@@ -4,9 +4,9 @@ Coding since 9th grade, turning caffeine into code since 2015 (9 years)
 
 ## Quick Compile ⚡
 
-🎓 MS in Computer Science @ ASU (Graduating May 2025)
-💻 5+ years with JavaScript, React, Next.js, TypeScript, Node.js
-🚀 Internships: AI startup (current), Stealth Startup, Kylo Apps
+- 🎓 MS in Computer Science @ ASU (Graduating May 2025)
+- 💻 5+ years with JavaScript, React, Next.js, TypeScript, Node.js
+- 🚀 Internships: AI startup (current), Stealth Startup, Kylo Apps
 
 ## Current Projects 🔍
 
