@@ -2,11 +2,18 @@
 
 Coding since 9th grade, turning caffeine into code since 2015 (9 years)
 
+
+## Let's Connect! | Seeking Full Time SDE roles starting May 2025!
+
+
+[Resume](https://anujjoshi.me/resume) | [LinkedIn](https://www.linkedin.com/in/thejoshi) | [Portfolio](https://anujjoshi.me/) | [Email](mailto:ajosh104@asu.edu)
+
+
 ## Highlights ⚡
 
 - 🎓 MS in Computer Science @ ASU (Graduating May 2025)
-- 💻 5+ years with JavaScript, React, Next.js, TypeScript, Node.js
-- 🚀 Internships: AI startup (current), Stealth Startup, Kylo Apps
+- 💻 5+ years with TypeScript, React, Next.js, JavaScript, Node.js
+- 🚀 Internships: HireBuddy.ai (AI Startup), BodaInsights.com (AI Startup), Kylo Apps
 
 ## Current Projects 🔍
 
@@ -18,11 +25,7 @@ Coding since 9th grade, turning caffeine into code since 2015 (9 years)
 
 JavaScript | React | Next.js | TypeScript | Python | Node.js | SQL
 
-Plus anything interesting: Rust, Golang, Linux, Vim, Zig
-
-## Let's Connect! 🌐
-
-[LinkedIn](https://www.linkedin.com/in/thejoshi) | [Portfolio](https://anujjoshi.me/) | [Email](mailto:ajosh104@asu.edu)
+Plus anything interesting: Golang, AWS, Linux, Vim, LLMs, LangChain
 
 I automate the mundane to focus on the insane(ly cool projects).
 Always brewing up solutions to life's little bugs! ☕💻
