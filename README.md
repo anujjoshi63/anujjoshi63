@@ -19,7 +19,7 @@ Coding since 9th grade, turning caffeine into code since 2015 (9 years)
 
 - Seeking SDE or Applied AI roles for May 2025
 - Exploring LLMs and Stable Diffusion
-- Working on a productivity app and an LLM-based RAG application
+- Working on a productivity app [DopeControl](https://dc.anujjoshi.me) and an LLM-based RAG application
 
 ## Tech Stack 🛠️
 
